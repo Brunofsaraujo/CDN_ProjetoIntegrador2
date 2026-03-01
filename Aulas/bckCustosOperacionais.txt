@@ -1,0 +1,1055 @@
+-- Julho 2024
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Capital de Giro', 10000.00, 'Não recorrente', 'Financeiro', '2024-07-01');
+
+-- Agosto 2024
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Registro da Empresa', 3000.00, 'Não recorrente', 'Terceiros', '2024-08-01');
+
+-- Setembro 2024
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5000.00, 'Recorrente', 'Infraestrutura', '2024-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 175500.00, 'Recorrente', 'Recursos Humanos', '2024-09-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 500.00, 'Recorrente', 'Serviços públicos', '2024-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2024-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2024-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Mobília Escritório', 25000.00, 'Não recorrente', 'Infraestrutura', '2024-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Computadores e Equipamentos', 50000.00, 'Não recorrente', 'Tecnologia', '2024-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Adequação do imóvel', 35000.00, 'Não recorrente', 'Terceiros', '2024-09-20');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Consultoria Jurídica Inicial', 5000.00, 'Não recorrente', 'Terceiros', '2024-07-01');
+
+-- Outubro 2024
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5000.00, 'Recorrente', 'Infraestrutura', '2024-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 175500.00, 'Recorrente', 'Recursos Humanos', '2024-10-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 500.00, 'Recorrente', 'Serviços públicos', '2024-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2024-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2024-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório Inicial', 2000.00, 'Não recorrente', 'Administrativo', '2024-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2024-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2000.00, 'Recorrente', 'Terceiros', '2024-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Servidores Desenvolvimento', 12000.00, 'Não recorrente', 'Tecnologia', '2024-10-01');
+
+-- Novembro 2024
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5000.00, 'Recorrente', 'Infraestrutura', '2024-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 175500.00, 'Recorrente', 'Recursos Humanos', '2024-11-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 500.00, 'Recorrente', 'Serviços públicos', '2024-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2024-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2024-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2024-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2024-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2024-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2000.00, 'Recorrente', 'Terceiros', '2024-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Organização e instalação do escritório', 20000.00, 'Não recorrente', 'Terceiros', '2024-11-20');
+
+-- Dezembro 2024
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5000.00, 'Recorrente', 'Infraestrutura', '2024-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 175500.00, 'Recorrente', 'Recursos Humanos', '2024-12-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('13º Salário Equipe', 122850.00, 'Não recorrente', 'Recursos Humanos', '2024-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 500.00, 'Recorrente', 'Serviços públicos', '2024-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2024-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2024-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Confraternização Fim de Ano', 6000.00, 'Não recorrente', 'Recursos Humanos', '2024-12-31');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2024-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2024-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2024-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2000.00, 'Recorrente', 'Terceiros', '2024-12-01');
+
+-- Janeiro 2025 
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 209300.00, 'Recorrente', 'Recursos Humanos', '2025-01-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 550.00, 'Recorrente', 'Serviços públicos', '2025-01-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-01-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-01-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2025-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 500.00, 'Recorrente', 'Administrativo', '2025-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2000.00, 'Recorrente', 'Terceiros', '2025-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento Inicial da Equipe', 5000.00, 'Não recorrente', 'Recursos Humanos', '2025-01-01');
+
+-- Fevereiro 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 209300.00, 'Recorrente', 'Recursos Humanos', '2025-02-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-02-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-02-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-02-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2025-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1500.00, 'Recorrente', 'Tecnologia', '2025-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Contratação Consultor UX', 8000.00, 'Não recorrente', 'Consultoria', '2025-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2025-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2000.00, 'Recorrente', 'Terceiros', '2025-02-01');
+
+-- Março 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 230100.00, 'Recorrente', 'Recursos Humanos', '2025-03-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-03-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-03-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-03-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2025-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1500.00, 'Recorrente', 'Tecnologia', '2025-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2025-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento e Desenvolvimento da Equipe', 5000.00, 'Não recorrente', 'Recursos Humanos', '2025-03-01');
+
+-- Abril 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 230100.00, 'Recorrente', 'Recursos Humanos', '2025-04-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-04-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-04-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-04-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2025-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1500.00, 'Recorrente', 'Tecnologia', '2025-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Consultoria Segurança', 12000.00, 'Não recorrente', 'Consultoria', '2025-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2025-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-04-01');
+
+-- Maio 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 245700.00, 'Recorrente', 'Recursos Humanos', '2025-05-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-05-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-05-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-05-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2025-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1500.00, 'Recorrente', 'Tecnologia', '2025-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 800.00, 'Recorrente', 'Administrativo', '2025-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento e Desenvolvimento da Equipe', 2000.00, 'Não recorrente', 'Recursos Humanos', '2025-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Manutenção de Equipamentos', 8000.00, 'Não recorrente', 'Infraestrutura', '2025-05-01');
+
+-- Junho 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 258700.00, 'Recorrente', 'Recursos Humanos', '2025-06-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-06-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-06-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-06-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2025-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1500.00, 'Recorrente', 'Tecnologia', '2025-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 150.00, 'Recorrente', 'Administrativo', '2025-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-06-01');
+
+-- julho 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 258700.00, 'Recorrente', 'Recursos Humanos', '2025-07-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-07-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-07-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-07-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 2500.00, 'Recorrente', 'Tecnologia', '2025-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1500.00, 'Recorrente', 'Tecnologia', '2025-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 50.00, 'Recorrente', 'Administrativo', '2025-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento e Desenvolvimento da Equipe', 1000.00, 'Não recorrente', 'Recursos Humanos', '2025-07-01');
+
+-- agosto 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 258700.00, 'Recorrente', 'Recursos Humanos', '2025-08-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-08-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-08-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-08-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2025-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1800.00, 'Recorrente', 'Tecnologia', '2025-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 500.00, 'Recorrente', 'Administrativo', '2025-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-08-01');
+
+-- setembro 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 538070.00, 'Recorrente', 'Recursos Humanos', '2025-09-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1800.00, 'Recorrente', 'Tecnologia', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 100.00, 'Recorrente', 'Administrativo', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento e Desenvolvimento da Equipe', 20000.00, 'Não recorrente', 'Recursos Humanos', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Auditoria Anual de Sistemas', 8000.00, 'Não recorrente', 'Tecnologia', '2025-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Manutenção de Equipamentos', 10000.00, 'Não recorrente', 'Infraestrutura', '2025-09-01');
+
+-- outubro 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 538070.00, 'Recorrente', 'Recursos Humanos', '2025-10-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2025-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1800.00, 'Recorrente', 'Tecnologia', '2025-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2025-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2025-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-10-01');
+
+-- novembro 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 543270.00, 'Recorrente', 'Recursos Humanos', '2025-11-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 600.00, 'Recorrente', 'Serviços públicos', '2025-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2025-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1800.00, 'Recorrente', 'Tecnologia', '2025-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 700.00, 'Recorrente', 'Administrativo', '2025-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento e Desenvolvimento da Equipe', 2000.00, 'Não recorrente', 'Recursos Humanos', '2025-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2025-11-01');
+
+-- dezembro 2025
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 5500.00, 'Recorrente', 'Infraestrutura', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 844467.00, 'Recorrente', 'Recursos Humanos', '2025-12-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('13º Salário Equipe', 591127.00, 'Não recorrente', 'Recursos Humanos', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 650.00, 'Recorrente', 'Serviços públicos', '2025-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2025-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 500.00, 'Recorrente', 'Serviços públicos', '2025-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Confraternização Fim de Ano', 8000.00, 'Não recorrente', 'Recursos Humanos', '2025-12-31');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 1800.00, 'Recorrente', 'Tecnologia', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 1000.00, 'Recorrente', 'Administrativo', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2200.00, 'Recorrente', 'Terceiros', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Manutenção de Equipamentos', 3000.00, 'Não recorrente', 'Infraestrutura', '2025-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2025-12-01');
+
+-- Janeiro 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 844467.00, 'Recorrente', 'Recursos Humanos', '2026-01-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 650.00, 'Recorrente', 'Serviços públicos', '2026-01-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-01-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-01-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3500.00, 'Recorrente', 'Tecnologia', '2026-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2026-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-01-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 40816.00, 'Recorrente', 'Operação', '2026-01-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 425.00, 'Recorrente', 'Financeiro', '2026-01-01');
+
+-- Fevereiro 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 844467.00, 'Recorrente', 'Recursos Humanos', '2026-02-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 650.00, 'Recorrente', 'Serviços públicos', '2026-02-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-02-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-02-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 500.00, 'Recorrente', 'Administrativo', '2026-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-02-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 52332.80, 'Recorrente', 'Operação', '2026-02-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 539.00, 'Recorrente', 'Financeiro', '2026-02-01');
+
+-- Março 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 844467.00, 'Recorrente', 'Recursos Humanos', '2026-03-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 650.00, 'Recorrente', 'Serviços públicos', '2026-03-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-03-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-03-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 200.00, 'Recorrente', 'Administrativo', '2026-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-03-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 64769.60, 'Recorrente', 'Operação', '2026-03-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 753.00, 'Recorrente', 'Financeiro', '2026-03-01');
+
+-- Abril 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 844467.00, 'Recorrente', 'Recursos Humanos', '2026-04-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 650.00, 'Recorrente', 'Serviços públicos', '2026-04-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2026-04-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-04-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Manutenção de Equipamentos Financeiros', 4000.00, 'Não recorrente', 'Manutenção', '2026-04-15');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 750.00, 'Recorrente', 'Administrativo', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento e Desenvolvimento da Equipe', 12000.00, 'Não recorrente', 'Recursos Humanos', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-04-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 70196.00, 'Recorrente', 'Operação', '2026-04-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 685.00, 'Recorrente', 'Financeiro', '2026-04-01');
+
+-- Maio 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 844467.00, 'Recorrente', 'Recursos Humanos', '2026-05-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 650.00, 'Recorrente', 'Serviços públicos', '2026-05-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 50.00, 'Recorrente', 'Serviços públicos', '2026-05-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-05-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 450.00, 'Recorrente', 'Administrativo', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Manutenção de Equipamentos', 4000.00, 'Não recorrente', 'Infraestrutura', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-05-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 84868.80, 'Recorrente', 'Operação', '2026-05-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 834.00, 'Recorrente', 'Financeiro', '2026-05-01');
+
+-- Junho 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 1168172.00, 'Recorrente', 'Recursos Humanos', '2026-06-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 700.00, 'Recorrente', 'Serviços públicos', '2026-06-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-06-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-06-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 150.00, 'Recorrente', 'Administrativo', '2026-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-06-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 96148.80, 'Recorrente', 'Operação', '2026-06-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 984.00, 'Recorrente', 'Financeiro', '2026-06-01');
+
+-- Julho 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 1168172.00, 'Recorrente', 'Recursos Humanos', '2026-07-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 700.00, 'Recorrente', 'Serviços públicos', '2026-07-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-07-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-07-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 500.00, 'Recorrente', 'Administrativo', '2026-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-07-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 106563.20, 'Recorrente', 'Operação', '2026-07-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 1106.00, 'Recorrente', 'Financeiro', '2026-07-01');
+
+-- Agosto 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 1168172.00, 'Recorrente', 'Recursos Humanos', '2026-08-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 700.00, 'Recorrente', 'Serviços públicos', '2026-08-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-08-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-08-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 500.00, 'Recorrente', 'Administrativo', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Treinamento e Desenvolvimento da Equipe', 10000.00, 'Não recorrente', 'Recursos Humanos', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Manutenção de Equipamentos', 8000.00, 'Não recorrente', 'Infraestrutura', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-08-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 112500.00, 'Recorrente', 'Operação', '2026-08-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 1130.00, 'Recorrente', 'Financeiro', '2026-08-01');
+
+-- Setembro 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 1168172.00, 'Recorrente', 'Recursos Humanos', '2026-09-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 700.00, 'Recorrente', 'Serviços públicos', '2026-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-09-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 300.00, 'Recorrente', 'Administrativo', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Auditoria Anual de Sistemas', 10000.00, 'Não recorrente', 'Tecnologia', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-09-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 126407.20, 'Recorrente', 'Operação', '2026-09-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 1356.00, 'Recorrente', 'Financeiro', '2026-09-01');
+
+-- Outubro 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 1168172.00, 'Recorrente', 'Recursos Humanos', '2026-10-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 700.00, 'Recorrente', 'Serviços públicos', '2026-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-10-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 1000.00, 'Recorrente', 'Administrativo', '2026-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-10-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 133508.00, 'Recorrente', 'Operação', '2026-10-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 1270.00, 'Recorrente', 'Financeiro', '2026-10-01');
+
+-- Novembro 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 1168172.00, 'Recorrente', 'Recursos Humanos', '2026-11-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 7000.00, 'Recorrente', 'Serviços públicos', '2026-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-11-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 50.00, 'Recorrente', 'Administrativo', '2026-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-11-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 144078.40, 'Recorrente', 'Operação', '2026-11-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 1492.00, 'Recorrente', 'Financeiro', '2026-11-01');
+
+-- Dezembro 2026
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Escritório', 6000.00, 'Recorrente', 'Infraestrutura', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Salários e Benefícios', 1524526.00, 'Recorrente', 'Recursos Humanos', '2026-12-05');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Bônus e 13º Salário Equipe', 1100000.00, 'Não recorrente', 'Recursos Humanos', '2026-12-20');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Conta de Energia', 700.00, 'Recorrente', 'Serviços públicos', '2026-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Água e esgoto', 55.00, 'Recorrente', 'Serviços públicos', '2026-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Internet Corporativa', 600.00, 'Recorrente', 'Serviços públicos', '2026-12-26');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Confraternização Fim de Ano', 10000.00, 'Não recorrente', 'Recursos Humanos', '2026-12-31');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Licenciamento de Software e Ferramentas de Gestão', 3000.00, 'Recorrente', 'Tecnologia', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviços em Nuvem AWS', 2000.00, 'Recorrente', 'Tecnologia', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Material de Escritório', 400.00, 'Recorrente', 'Administrativo', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Seguro Empresarial e Responsabilidade Civil', 1200.00, 'Recorrente', 'Seguros', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Serviço de Limpeza e Higiene', 2500.00, 'Recorrente', 'Terceiros', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Manutenção de Equipamentos', 15000.00, 'Não recorrente', 'Infraestrutura', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Marketing Digital', 15000.00, 'Recorrente', 'Marketing', '2026-12-01');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Aluguel Quadras', 154822.40, 'Recorrente', 'Operação', '2026-12-28');
+
+INSERT INTO CustosOperacionais (Descricao, ValorCusto, TipoCusto, Categoria, Data) 
+VALUES ('Taxas financeiras', 1462.00, 'Recorrente', 'Financeiro', '2026-12-01');

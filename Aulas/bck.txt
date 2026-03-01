@@ -1,0 +1,143 @@
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Quadra esportiva Jd. Guadalajara', 'Rua Alcides Pegorreti, Jardim Guadalajara, Sorocaba, SP, 18045-660', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Gallo Esporte', 'Rua F, 125 - Jardim do Sol, Sorocaba', 60.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Fun7 Sports', 'R. João Wagner Wey, 1001, Jardim América, Sorocaba - SP, CEP 18046-695', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Quadra Poliesportiva Camisa 10', 'Rua João Batista Ribeiro, 100 - Vila Progresso, Sorocaba, CEP 18045-000', 50.00, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Pinheiros Futebol Society', 'Rua Abílio Moisés, 42, Vila Assis, Sorocaba - SP, CEP 18035-060', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Quadra Zirmãos Futsal', 'Avenida Lindoia 330, Nova Sorocaba', 60.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo) 
+VALUES ('Dalsoglio Quadras de Areia', 'Sorocaba, SP', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Villa Verde Futebol Society', 'Alameda das Primaveras, 181, Jardim Simus, Sorocaba, SP, 18055-170', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Arena 015 | Futevôlei | Beach Tênis | Vôlei de Areia', 'Avenida Ipanema, 515 - Jardim Ipanema, Sorocaba - SP, 18053-425', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Arena Sorocaba', 'Avenida São Paulo, 1500 - Jardim Nova Sorocaba, Sorocaba - SP, 18087-250', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('CAAS FUTSAL HUDPLAY (M2)', 'Rua dos Três Irmãos, 150 - Jardim Saira, Sorocaba - SP, 18087-250', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Fourplay Sports - Futebol Society & Beach Tennis & Futevôlei & Vôlei de Praia', 'Avenida Itavuvu, 3000 - Jardim Itavuvu, Sorocaba - SP, 18057-450', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Hammer Futebol Society', 'Avenida São Paulo, 500 - Jardim Santa Rosália, Sorocaba - SP, 18040-060', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Arena Play Sorocaba - Locação Society e Futsal - Academia de Futebol da Inter de Milão', 'Avenida Ipanema, 300 - Jardim Ipanema, Sorocaba - SP, 18030-030', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Comatek Futebol Society', 'Rua Comendador José Inácio, 200 - Jardim São Carlos, Sorocaba - SP, 18050-000', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Quadra FutShow', 'Rua São Carlos, 325 - Parque Manchester, Sorocaba - SP, 18056-000', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('ARENA ROCHA', 'Rua José Francisco de Andrade, 128 - Jardim São Marcos, Sorocaba - SP, 18040-000', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Paulistano Futebol Society', 'Rua Paulistano, 456 - Jardim São Paulo, Sorocaba - SP, 18030-000', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('QUADRA SIRIUS', 'R. Santo Severo Scapol, 106 - Jardim Gonçalves, Sorocaba - SP, 18016-390', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Tapetão Quadras', 'Rua Augusto Ferreira de Morais, Lg. Socorro, 259, São Paulo - SP, 04763-000', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('MULTISPACE', 'R. Samuel da Silva, 256 - Jardim Abaeté, Sorocaba - SP, 18081-250', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Nardys quadra e bar.', 'Alameda das Primaveras, 731 - Jardim Simus, Sorocaba - SP, 18055-170', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Soroplaycenter', 'R. Cláudio Furquim, 101 - Vila Hortência, Sorocaba - SP, 18020-010', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Centro Esportivo Maria Eugenia', 'R. Dante Trevisan - Jardim Maria Eugenia, Sorocaba - SP, 18074-550', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Pé na Areia Sorocaba', 'Av. Elias Maluf, 2200 - Wanel Ville, Sorocaba - SP, 18055-215', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Ronaldo Academy Sorocaba - Escola de Futebol Sorocaba - Aulas de Futebol e Goleiro - Locação de Quadra Sorocaba', 'R. Antônio Aparecido Ferraz, 1480 - Parque Santa Isabel, Sorocaba - SP, 18052-280', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Wanel Beach esportes na areia', 'Av. Elias Maluf, 3170 - Jardim Wanel Ville V, Sorocaba - SP, 18055-215', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Academia Match Point Sorocaba - Tênis e Squash', 'Av. Eng. Carlos Reinaldo Mendes, 4663 - Além Ponte, Sorocaba - SP, 18013-280', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Pro Ace Beach Sports - Sorocaba', 'R. Direitos Humanos, 100, Sorocaba - SP, 18087-080', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('PlayTennis Sorocaba', 'R. Prof. Magalhães de Noronha, 167 - Jardim São Carlos, Sorocaba - SP, 18046-460', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('JL', 'R. João Valentino Joel, 383 - Jardim Prestes de Barros, Sorocaba - SP, 18020-286', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Quadra Futsal ShowBar', 'R. Pedro José Ribeiro, 100 - Vila Carvalho, Sorocaba - SP, 18060-210', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Quadras Society - Clube SR São Bento', 'Av. Carlos Sonetti, 990 - Jardim Prestes de Barros, Sorocaba - SP, 18021-200', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Arena Ibiti Futebol Society Sorocaba', 'R. José João Alves, 100 - Loteamento Linc, Sorocaba - SP, 18086-432', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('QUADRAS BEACH TENNIS BRASIL', 'Rua Antônio Soares Leitão, 205 - Parque Campolim, Sorocaba - SP, 18047-680', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Banana Pro Tênis', 'Rua Maria Teodora Toledo Ferreira, 250, Jardim São Carlos, Sorocaba - SP, 18046-350', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Elite Quadras Beach Tennis', 'R. Atanázio Soares, 1100 - Vila Fiori, Sorocaba - SP, 18075-000', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Morumbi Futsal', 'Av. José Soares, 40 - Parque Morumbi, Votorantim - SP, 18110-402', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('B9 Sports', 'Av. Luiz do Patrocínio Fernandes, 996 - Vila Dominguinho, Votorantim - SP, 18114-001', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Nova Arena Society', 'R. Profa. Guiomar Ribeiro Novaes - Conj. Hab. Santa Etelvina II, Votorantim - SP, 18019-005', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Resenha Sorocaba | Restaurante e Esportes de Areia', 'Av. Adolpho Massaglia, 515 - Vossoroca, Votorantim - SP, 18116-175', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Arena Votorantim', 'R. Júlia Martins Domingues, 13 - Vila Domingues, Votorantim - SP, 18116-545', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Ginásio Poliesportivo Prof João Carlos de Camargo', 'Rua Dinorá Balmiça Vasques, n109 - Altos de Votorantim, Votorantim - SP, 18113-811', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('ADC Votocel', 'R. Eugênio Ildefonso, 66 - Vila Votocel, Votorantim - SP', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Ginásio Mirante dos Ovnis', 'R. Júlia Martins Domingues, 13 - Vila Domingues, Votorantim - SP', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Centro Esportivo Recreativo Municipal Aldovir Gori - CERMAG', 'R. Agenor Augusto Lins, sn - Rio Acima, Votorantim - SP', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Sport Golaço - Uniformes Esportivos', 'R. Ilerione Ceretta, 58 - Parque Bela Vista, Votorantim - SP', 0.0, 'Y');
+
+INSERT INTO Quadras (NomeQuadra, Localizacao, PrecoHora, Ativo)
+VALUES ('Futebol Society Santa Bola', 'Av. Rev. José Manoel da Conceição, 460 - Protestantes, Votorantim - SP', 0.0, 'Y');

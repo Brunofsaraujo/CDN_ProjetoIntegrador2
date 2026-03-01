@@ -1,0 +1,142 @@
+
+1. Datas de Contratação ajustadas conforme cronograma do projeto:
+- CEO e time inicial: 01/07/2024
+- Contabilidade e Jurídico: 22/08/2024
+- Time de Desenvolvimento: 12/12/2024
+- Infraestrutura: 21/12/2024
+- Analistas e Cientistas: 05/02/2025
+- Time de Produto: 02/04/2025
+- Desenvolvedores Adicionais: 30/05/2025
+- Marketing: 23/10/2025
+
+2. Status de Emprego:
+- Atualizados para "Aguardando Contratação" para funcionários com data futura a 30/10/2024
+- Mantidos como "Ativo" para funcionários já contratados
+
+3. Histórico Salarial:
+- Criado registro inicial para todos os funcionários na data de contratação
+
+--------------------------
+
+Projeção completa de aumentos salariais com as seguintes características:
+
+1. Marcos de Aumentos:
+- Setembro 2025: Pós-MVP
+- Dezembro 2025: Pós-lançamento
+- Junho 2026: Aumento anual
+- Dezembro 2026: Aumento por performance
+
+2. Critérios para Aumentos:
+- Baseados no cargo (CEO, Diretores, Gerentes, etc.)
+- Considerando satisfação do funcionário
+- Levando em conta o absenteísmo
+- Ajustes especiais para entregas de projeto
+
+3. Percentuais de Aumento:
+- 15% para promoções
+- 12% para alta performance
+- 8-10% para entregas importantes
+- 6% como aumento base
+
+4. View para Análise:
+- Mostra evolução salarial completa
+- Calcula percentual de aumento total
+- Permite acompanhamento por funcionário
+
+------------------------------
+
+O SQL gerado faz o seguinte:
+
+Primeiro atualiza os salários iniciais de acordo com os novos valores base
+Depois aplica os aumentos progressivos nas datas específicas:
+
+2025-09-01: aumento de 6%
+2025-12-01: aumento de 8%
+2026-06-01: aumento de 6%
+2026-12-01: aumento de 15%
+
+Cada UPDATE considera os funcionários de 1 a 19 (Beatriz e Breno só aparecem na data inicial pois são mais recentes).
+Observações importantes:
+
+Os aumentos são cumulativos (multiplicativos)
+Mantive a estrutura original das datas de alteração
+Os funcionários 20 e 21 (Beatriz e Breno) só são atualizados na primeira query pois têm data de início posterior
+
+Você gostaria que eu fizesse algum ajuste nos percentuais de aumento ou na estrutura das queries?
+
+----------------------------
+
+Com a previsão de recorrência de 80% para locações no aplicativo, vamos refazer as estimativas de usuários necessários para realizar uma boa simulação de previsões de locações e fluxo de caixa ao longo de 2026.
+
+Primeiramente, a previsão de locações mensais permanece em uma média de 1.000, com um crescimento esperado ao longo do ano, iniciando com menos locações e atingindo picos no final de 2026. Com 80% das locações vindo de usuários recorrentes e 20% de novos usuários, isso significa que, a cada mês, teremos aproximadamente 800 locações provenientes de usuários recorrentes e 200 locações de novos usuários.
+
+Considerando que os usuários recorrentes realizam, em média, duas locações mensais, podemos calcular o número de usuários recorrentes necessários. Para atender a 800 locações mensais de usuários recorrentes, dividimos esse número pelo número médio de locações por usuário. Assim, chegamos a 400 usuários recorrentes.
+
+Para os novos usuários, se considerarmos que cada novo usuário faz apenas uma locação mensal, então, para as 200 locações mensais, precisaremos de 200 novos usuários.
+
+Agora, ao calcular o número total de usuários, é importante considerar o crescimento ao longo do ano. Podemos estimar que, em média, começamos com cerca de 100 novos usuários mensais, aumentando para 200 novos usuários no último trimestre. Isso nos leva a um total aproximado de 2.400 novos usuários ao longo do ano, considerando um crescimento linear.
+
+Assim, somando os 400 usuários recorrentes e os 2.400 novos usuários, chegamos a um total de aproximadamente 2.800 usuários. Portanto, para simular adequadamente as locações e o fluxo de caixa ao longo de 2026, seria ideal cadastrar cerca de 2.800 usuários. Essa estimativa leva em conta tanto a alta taxa de locações recorrentes quanto a necessidade de novos usuários para atender à demanda mensal.
+
+-----------------------------
+
+Análise da estrutura proposta:
+
+Cargos mantidos como CLT (por necessidade legal/operacional):
+
+Gestores e coordenadores (IDs 1-7): Devido à subordinação e gestão de equipes
+Auxiliares e suporte (IDs 11, 15, 17, 18, 20, 21): Devido à natureza operacional do trabalho
+
+Cargos convertidos para PJ:
+
+Especialistas técnicos (IDs 8, 9, 10, 12, 13, 14, 16, 19)
+Profissionais que podem ter maior autonomia
+Atividades que não caracterizam vínculo empregatício
+
+Custos considerados:
+
+CLT: 68% de encargos (INSS, FGTS, férias, 13º, etc.)
+PJ: 15% adicional para cobrir benefícios mínimos obrigatórios
+
+Economia estimada:
+
+Redução de aproximadamente 53% nos encargos dos cargos convertidos para PJ
+Manutenção da conformidade legal para cargos que necessitam vínculo CLT
+
+Observações importantes:
+
+A conversão para PJ deve ser feita com cuidado para evitar caracterização de vínculo empregatício
+Recomenda-se manter benefícios mínimos mesmo para PJs para retenção de talentos
+Alguns cargos precisam permanecer CLT por questões legais e de subordinação
+
+Gostaria de ver o detalhamento dos custos para algum mês específico ou uma análise mais detalhada de algum aspecto?
+
+Principais alterações para SQLite3:
+
+Mudança na sintaxe da CTE recursiva
+Uso de date() ao invés de DATE_ADD()
+Uso da função date(mes, '+1 month') para adicionar meses
+Simplificação de algumas funções de data
+
+A query mantém a mesma lógica:
+
+Gera todos os meses entre Jul/2024 e Dez/2026
+Para cada mês, busca o último salário vigente de cada funcionário
+Aplica os multiplicadores de CLT (1.68) e PJ (1.15)
+Mostra:
+
+Data do mês
+Custo total da folha
+Número de funcionários
+Quantidade de CLT e PJ
+
+
+
+Distribuição mantida:
+
+CLT: Gestores (1-7) e Suporte (11, 15, 17, 18, 20, 21)
+PJ: Especialistas (8, 9, 10, 12, 13, 14, 16, 19)
+
+-----------------------
+
+https://chatgpt.com/c/67237572-55d8-800c-9753-9ea9f31cbcce

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Quadra</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container my-4">
+    <h1 class="text-center mb-4">Editar Quadra</h1>
+    <form method="post" class="bg-light p-4 border rounded">
+        <div class="mb-3">
+            <label for="Nome_Quadra" class="form-label">Nome da Quadra</label>
+            <input type="text" class="form-control" name="Nome_Quadra" id="Nome_Quadra" value="{{ quadra['Nome_Quadra'] }}" required>
+        </div>
+        <div class="mb-3">
+            <label for="Localizacao" class="form-label">Localização</label>
+            <input type="text" class="form-control" name="Localizacao" id="Localizacao" value="{{ quadra['Localizacao'] }}" required>
+        </div>
+        <div class="mb-3">
+            <label for="Preco_Hora" class="form-label">Preço (h)</label>
+            <input type="number" class="form-control" name="Preco_Hora" id="Preco_Hora" value="{{ quadra['Preco_Hora'] }}" required>
+        </div>
+        <div class="form-check mb-3">
+            <input class="form-check-input" type="checkbox" name="Ativo" id="Ativo" value="Y" {% if quadra['Ativo'] == 'Y' %} checked{% endif %}>
+            <label class="form-check-label" for="Ativo">
+                Ativo
+            </label>
+            <input type="hidden" name="Ativo" value="N">
+        </div>
+        <button type="submit" class="btn btn-primary">Salvar</button>
+        <a href="{{ url_for('quadras.index') }}" class="btn btn-secondary">Voltar</a>
+    </form>
+</body>
+</html>

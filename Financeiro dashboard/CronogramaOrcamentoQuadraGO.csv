@@ -1,0 +1,74 @@
+Id;Número_da_estrutura_de_tópicos;Nome;Duração;Predecessoras;Custo;Início;Término;Nomes_dos_recursos
+0;0;Projeto Integrador;377 dias;;R$ 280.316,00;Seg 01/07/24;Ter 09/12/25;
+1;1;Planejamento Inicial;37 dias;;R$ 0,00;Seg 01/07/24;Ter 20/08/24;
+2;1.1;Definição da Visão e Missão da Empresa;4 dias;;R$ 0,00;Seg 01/07/24;Qui 04/07/24;
+3;1.1.1;Estabelecimento da missão;2 dias;;R$ 0,00;Seg 01/07/24;Ter 02/07/24;CEO
+4;1.1.2;Reunião inicial com os fundadores para alinhar objetivos e expectativas;2 dias;3;R$ 0,00;Qua 03/07/24;Qui 04/07/24;CEO
+5;1.2;Análise de Mercado;10 dias;2;R$ 0,00;Sex 05/07/24;Qui 18/07/24;
+6;1.2.1;Pesquisa de mercado para identificar concorrentes e oportunidades;7 dias;;R$ 0,00;Sex 05/07/24;Seg 15/07/24;CEO
+7;1.2.2;Análise SWOT (Forças/Fraquezas/Oportunidades/Ameaças);3 dias;6;R$ 0,00;Ter 16/07/24;Qui 18/07/24;CEO
+8;1.3;Plano de Negócios;23 dias;5;R$ 0,00;Sex 19/07/24;Ter 20/08/24;
+9;1.3.1;Desenvolvimento do plano de negócios completo;15 dias;;R$ 0,00;Sex 19/07/24;Qui 08/08/24;CEO
+10;1.3.2;Definição de metas;3 dias;9;R$ 0,00;Sex 09/08/24;Ter 13/08/24;CEO
+11;1.3.3;Projeções financeiras e plano de captação de recursos;5 dias;10;R$ 0,00;Qua 14/08/24;Ter 20/08/24;CEO
+12;2;Estruturação Jurídica e Administrativa;81 dias;1;R$ 28.000,00;Qua 21/08/24;Qua 11/12/24;
+13;2.1;Registro da Empresa;81 dias;;R$ 3.000,00;Qua 21/08/24;Qua 11/12/24;
+14;2.1.1;Escolha e registro do nome da empresa;1 dia;1;R$ 0,00;Qua 21/08/24;Qua 21/08/24;CEO
+15;2.1.2;Obtenção de CNPJ e registros necessários;80 dias;14;R$ 3.000,00;Qui 22/08/24;Qua 11/12/24;Contabilidade
+16;2.2;Locação do Imóvel;61 dias;;R$ 25.000,00;Qui 22/08/24;Qui 14/11/24;
+17;2.2.1;Pesquisa e visita a imóveis comerciais;15 dias;14;R$ 0,00;Qui 22/08/24;Qua 11/09/24;CEO
+18;2.2.2;Negociação e assinatura do contrato de locação;1 dia;17;R$ 5.000,00;Qui 12/09/24;Qui 12/09/24;Jurídico
+19;2.2.3;Adequação do imóvel conforme as necessidades (reformas/mobília/etc);45 dias;18;R$ 20.000,00;Sex 13/09/24;Qui 14/11/24;Construtora
+20;3;Infraestrutura e Equipamentos;85 dias;;R$ 49.000,00;Sex 13/09/24;Qui 09/01/25;
+21;3.1;Compra de Equipamentos;50 dias;;R$ 14.000,00;Sex 13/09/24;Qui 21/11/24;
+22;3.1.1;Orçamento;5 dias;18;R$ 1.400,00;Sex 13/09/24;Qui 19/09/24;Gerente de desenvolvimento
+23;3.1.2;Aquisição de ativos (computadores/móveis/etc);45 dias;22;R$ 12.600,00;Sex 20/09/24;Qui 21/11/24;Gerente de operação
+24;3.2;Configuração do Espaço de Trabalho;35 dias;;R$ 35.000,00;Sex 22/11/24;Qui 09/01/25;
+25;3.2.1;Organização e instalação do escritório;15 dias;23;R$ 20.000,00;Sex 22/11/24;Qui 12/12/24;Construtora
+26;3.2.2;Instalação de infraestrutura de TI (rede/internet/servidores/ambiente dev);20 dias;25;R$ 15.000,00;Sex 13/12/24;Qui 09/01/25;Infraestutura 
+27;4;Recrutamento e Seleção de Funcionários;38 dias;12;R$ 10.640,00;Qui 12/12/24;Seg 03/02/25;
+28;4.1;Definição de Perfis e Cargos;6 dias;;R$ 1.680,00;Qui 12/12/24;Qui 19/12/24;
+29;4.1.1;Descrição de cargos e responsabilidades;5 dias;;R$ 1.400,00;Qui 12/12/24;Qua 18/12/24;"CEO;Gerente administrativo"
+30;4.1.2;Planejamento do organograma da empresa;1 dia;29;R$ 280,00;Qui 19/12/24;Qui 19/12/24;"CEO;Gerente administrativo"
+31;4.2;Processo de Recrutamento;33 dias;;R$ 8.960,00;Qui 19/12/24;Seg 03/02/25;
+32;4.2.1;Divulgação das vagas em plataformas de emprego;2 dias;29;R$ 560,00;Qui 19/12/24;Sex 20/12/24;Gerente de desenvolvimento
+33;4.2.2;Seleção e entrevistas com candidatos;15 dias;32;R$ 4.200,00;Seg 23/12/24;Seg 13/01/25;Gerente administrativo
+34;4.2.3;Contratação e onboard dos funcionários;15 dias;33;R$ 4.200,00;Ter 14/01/25;Seg 03/02/25;Gerente administrativo
+35;5;Desenvolvimento do Software;173 dias;27;R$ 150.096,00;Ter 04/02/25;Qui 02/10/25;
+36;5.1;Iniciação do projeto;13 dias;;R$ 5.608,00;Ter 04/02/25;Qui 20/02/25;
+37;5.1.1;Reuniões com stakeholders;1 dia;;R$ 840,00;Ter 04/02/25;Ter 04/02/25;"Gerente mercadológico;Desenvolvedor"
+38;5.1.2;Documentação dos requisitos iniciais;3 dias;37;R$ 480,00;Qua 05/02/25;Sex 07/02/25;Analista de produto
+39;5.1.3;Escolha das tecnologias e ferramentas a serem utilizadas;4 dias;38;R$ 4.008,00;Seg 10/02/25;Qui 13/02/25;"Cientista de dados;Desenvolvedor;Experiencia do usuário;Gerente de desenvolvimento;QA"
+40;5.1.4;Designação de papéis e responsabilidades;1 dia;39;R$ 280,00;Sex 14/02/25;Sex 14/02/25;Gerente de desenvolvimento
+41;5.1.5;Aprovação do orçamento;5 dias;39;R$ 0,00;Sex 14/02/25;Qui 20/02/25;CEO
+42;5.2;Planejamento do Desenvolvimento;37 dias;;R$ 21.128,00;Sex 21/02/25;Seg 14/04/25;
+43;5.2.1;Análise de requisitos;30 dias;36;R$ 13.200,00;Sex 21/02/25;Qui 03/04/25;
+44;5.2.1.1;Levantamento detalhado de requisitos;15 dias;;R$ 6.600,00;Sex 21/02/25;Qui 13/03/25;"Analista de produto;Gerente mercadológico"
+45;5.2.1.2;Documentação de processos de negócios;15 dias;;R$ 6.600,00;Sex 14/03/25;Qui 03/04/25;"Analista de produto;Gerente mercadológico"
+46;5.2.2;Planejamento do cronograma;5 dias;;R$ 3.728,00;Sex 04/04/25;Qui 10/04/25;
+47;5.2.2.1;Definição das fases e marcos do projeto;2 dias;43;R$ 560,00;Sex 04/04/25;Seg 07/04/25;Gerente de desenvolvimento
+48;5.2.2.2;Estimativa de tempo para cada atividade;3 dias;47;R$ 3.168,00;Ter 08/04/25;Qui 10/04/25;"Cientista de dados;Desenvolvedor;Experiencia do usuário;QA"
+49;5.2.3;Análise de riscos;7 dias;;R$ 4.200,00;Sex 04/04/25;Seg 14/04/25;
+50;5.2.3.1;Identificação de potenciais riscos;4 dias;43;R$ 1.680,00;Sex 04/04/25;Qua 09/04/25;"Gerente de desenvolvimento;Gerente de operação;Gerente mercadológico"
+51;5.2.3.2;Desenvolvimento de planos de mitigação;3 dias;50;R$ 2.520,00;Qui 10/04/25;Seg 14/04/25;"Gerente de desenvolvimento;Gerente de operação;Gerente mercadológico"
+52;5.3;Design e Blueprint;33 dias;;R$ 30.480,00;Ter 15/04/25;Qui 29/05/25;
+53;5.3.1;Pesquisa e contratação de empresa de comunicação visual;3 dias;42;R$ 840,00;Ter 15/04/25;Qui 17/04/25;Gerente de desenvolvimento
+54;5.3.2;Criação de wireframes e protótipos do aplicativo;20 dias;53;R$ 22.240,00;Sex 18/04/25;Qui 15/05/25;"Cientista de dados;Desenvolvedor;Experiencia do usuário;QA;Estagiário"
+55;5.3.3;Validação do design com potenciais usuários;10 dias;54;R$ 800,00;Sex 16/05/25;Qui 29/05/25;Experiencia do usuário
+56;5.3.4;Desenvolvimento do blueprint funcional;15 dias;42;R$ 6.600,00;Ter 15/04/25;Seg 05/05/25;"Analista de produto;Gerente mercadológico"
+57;5.4;Desenvolvimento do MVP (Produto Mínimo Viável);90 dias;;R$ 92.880,00;Sex 30/05/25;Qui 02/10/25;
+58;5.4.1;Implementação das funcionalidades essenciais do aplicativo beta;70 dias;52;R$ 77.840,00;Sex 30/05/25;Qui 04/09/25;"Cientista de dados;Desenvolvedor;Experiencia do usuário;QA;Estagiário"
+59;5.4.2;Testes iniciais e correção de bugs;15 dias;58;R$ 11.280,00;Sex 05/09/25;Qui 25/09/25;"Desenvolvedor;QA;Estagiário"
+60;5.4.3;Entrega de documentação final do projeto;5 dias;52;R$ 3.760,00;Sex 26/09/25;Qui 02/10/25;"Desenvolvedor;QA;Estagiário"
+61;6;Testes e Ajustes Finais;22 dias;57;R$ 17.760,00;Sex 03/10/25;Seg 03/11/25;
+62;6.1;Testes Internos;10 dias;;R$ 5.960,00;Sex 03/10/25;Qui 16/10/25;
+63;6.1.1;Realização de testes internos com a equipe;5 dias;;R$ 2.200,00;Sex 03/10/25;Qui 09/10/25;"Analista de produto;Gerente mercadológico"
+64;6.1.2;Ajustes com base no feedback;5 dias;63;R$ 3.760,00;Sex 10/10/25;Qui 16/10/25;"Desenvolvedor;QA;Estagiário"
+65;6.2;Testes com Usuários;22 dias;;R$ 11.800,00;Sex 03/10/25;Seg 03/11/25;
+66;6.2.1;Seleção de um grupo de usuários para testes beta;2 dias;35;R$ 160,00;Sex 03/10/25;Seg 06/10/25;Experiencia do usuário
+67;6.2.2;Coleta de feedback e ajustes finais;20 dias;66;R$ 11.640,00;Ter 07/10/25;Seg 03/11/25;"Desenvolvedor;Experiencia do usuário;QA"
+68;7;Marketing e Lançamento;48 dias;;R$ 24.820,00;Sex 03/10/25;Ter 09/12/25;
+69;7.1;Plano de Marketing;15 dias;57;R$ 10.200,00;Sex 03/10/25;Qui 23/10/25;"Analista de métricas;Gerente de marketing;Social media;Vendas"
+70;7.2;Lançamento;3 dias;69;R$ 1.740,00;Sex 24/10/25;Ter 28/10/25;"Gerente de marketing;Social media;Vendas"
+71;7.3;Acompanhamento Go Live;30 dias;70;R$ 12.600,00;Qua 29/10/25;Ter 09/12/25;"Analista de suporte;Gerente de operação"
+72;7.4;Desmobilização da equipe;1 dia;70;R$ 280,00;Qua 29/10/25;Qua 29/10/25;Gerente administrativo
